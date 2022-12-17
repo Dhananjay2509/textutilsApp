@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TextUtils--App/static/css/main.e6c13ad2.css",
-    "main.js": "/TextUtils--App/static/js/main.2e476797.js",
-    "static/js/787.719ec76d.chunk.js": "/TextUtils--App/static/js/787.719ec76d.chunk.js",
-    "static/media/logo.svg": "/TextUtils--App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TextUtils--App/index.html",
-    "main.e6c13ad2.css.map": "/TextUtils--App/static/css/main.e6c13ad2.css.map",
-    "main.2e476797.js.map": "/TextUtils--App/static/js/main.2e476797.js.map",
-    "787.719ec76d.chunk.js.map": "/TextUtils--App/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/textutilsapp.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/textutilsapp.github.io/static/js/main.d0f6d186.js",
+    "static/js/787.719ec76d.chunk.js": "/textutilsapp.github.io/static/js/787.719ec76d.chunk.js",
+    "static/media/logo.svg": "/textutilsapp.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/textutilsapp.github.io/index.html",
+    "main.e6c13ad2.css.map": "/textutilsapp.github.io/static/css/main.e6c13ad2.css.map",
+    "main.d0f6d186.js.map": "/textutilsapp.github.io/static/js/main.d0f6d186.js.map",
+    "787.719ec76d.chunk.js.map": "/textutilsapp.github.io/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2e476797.js"
+    "static/js/main.d0f6d186.js"
   ]
 }
